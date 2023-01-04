@@ -1,0 +1,39 @@
+.resimSlider{
+    height:600px;
+}
+body{
+    padding-top:50px;
+    font-family:'Raleway',sans-serif;
+}
+.hakkimizda{
+    background-color:white;
+}
+.galeri{
+    background-color:#f2f2f2;
+}
+.iletisim{
+    background-color: #f2f2f2;
+}
+.ayrac{
+    border:none;
+    border-top:2px solid#5a09095d;
+    max-width:300px;
+    margin:25px auto;
+}
+.ibeyaz{
+    color:#5a09095d;
+    position:relative;
+    top: -55px;
+    font-size:40px;
+    border:10px solid white;
+    background-color: white;
+}
+.igri{
+    color:#5a09095d;
+    position:relative;
+    top: -55px;
+    font-size:40px;
+    border:10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
